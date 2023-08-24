@@ -7,6 +7,7 @@ Command line application featuring node.js and Inquirer 8.2.4 to generate a simp
 
 A command line application to generate a simple logo through user input featuring Node and Inquirer 8.2.4.
 User/me will have questions such as; Enter 3 characters for logo text, Choose a color for text, Select a shape: (circle, triangle, or square), Pick a color for that shape. Colors can be a color keyword OR a hexadecimal number. After all choices are made and entered, in the logo.svg file, there should be a new logo with all the choices generated. This application uses Jest for testing.
+Image size: 300x200 pixel image.
 
 ## Table of Contents
 
@@ -14,6 +15,7 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 
 - [Installation](#installation)
 - [Links](#links)
+- [Object-Oriented Programming](#object-oriented-programming)
 - [Jest](#jest)
 - [Inquirer 8.2.4](#inquirer-824)
 - [SVG](#svg)
@@ -43,7 +45,7 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 
 :arrow_forward: [Github Link:](https://github.com/pmastropolo/project-ten-svg-simple-logo-maker-challenge)
 
-:arrow_forward: Video Link:
+:arrow_forward: [Youtube Video Link:](https://www.youtube.com/watch?v=d6Dw98sY9rA)
 
 ## Links
 
@@ -51,7 +53,15 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 
 :arrow_forward: Github link:https://github.com/pmastropolo/project-ten-svg-simple-logo-maker-challenge
 
-:arrow_forward:Video Link:
+:arrow_forward:Video Link:https://www.youtube.com/watch?v=d6Dw98sY9rA
+
+## Object-Oriented Programming
+
+- [Obect Oriented Programming](https://geetikakaushik2020.medium.com/what-is-object-oriented-programming-7f14c5147ee5)
+- [What is Object-Oriented Programming](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
+- ![What is OOP Part 1](<Images/oop part 1.jpg>)
+- ![What is OOP Part 2](<Images/oop part 2.jpg>)
+- ![OOP](<Images/what is oop.jpg>)
 
 ## Jest
 
@@ -80,6 +90,7 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 - [Text in SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts)
 - [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 - [SVG Intro Wiki Schools](https://www.w3schools.com/graphics/svg_intro.asp?fbclid=IwAR2BuYuvu3dGfUkDemR966OEywJUHQxWmd1NKi5De2AXuxCgz0LZXGnJjM8)
+- [Things you need to know about working with svgs](https://www.freecodecamp.org/news/things-you-need-to-know-about-working-with-svg-in-vs-code-63be593444dd/)
 ![SVG, What is it?](Images/svg.jpg)
 
 ## Shapes
@@ -87,6 +98,8 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 - [Circle](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
 - [Basic Shapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
 - [Circle](https://www.w3schools.com/graphics/svg_circle.asp?fbclid=IwAR1F8OXiiiPdCa3CA69h1qAaTGve2TEZXgHU6wzR5UsevaYb5mxkiIgD6Zk)
+- [Rectangle/Square](https://www.w3schools.com/graphics/svg_rect.asp)
+- [Polygon/Triangle](https://www.w3schools.com/graphics/svg_polygon.asp)
 - ![Circle Shape](<Images/circle shapes.jpg>)
 - ![Rectangle/Square Shape](Images/rectangle.jpg)
 - ![Polygon/Triangle](Images/polygon.jpg)
@@ -153,6 +166,8 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 - [NPM list](https://www.javascripttutorial.net/nodejs-tutorial/npm-list/?fbclid=IwAR2rv4hSpePzMXwDaw4z_i3cWcqSHgR42Yxh6naZ8QJN2iWajbvh1s3vNEA)
 - [CSS Color Keywords](https://www.w3.org/wiki/CSS/Properties/color/keywords)
 - [HTML Color Codes](https://htmlcolorcodes.com/)
+- [What is Object-Oriented Programming](https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP)
+- ![OOP](<Images/what is oop.jpg>)
 
 ## Key-Topics
 
@@ -162,11 +177,19 @@ User/me will have questions such as; Enter 3 characters for logo text, Choose a 
 ![User Story](<Images/user story.jpg>)
 ### Notes on Application
 
+![Project requires node](<Images/requires node.jpg>)
+![What verisons of node & npm](<Images/verisons node and npm.jpg>)
+![Run Project Node](<Images/run projectnode.jpg>)
+![Default Example 1](<examples/default Example 1.jpg>)
+![Example 2 Triangle](<examples/Example 2 Triangle.jpg>)
+![Example 3 Square](<examples/Example 3 square.jpg>)
 ## License
 
 :heavy_exclamation_mark:
 
 ![License](https://img.shields.io/badge/license-MIT-pink.svg?style=for-the-badge)
+
+MIT License
 
 ## How to Contribute
 
@@ -195,4 +218,3 @@ N/A
 :sparkler:
 
 N/A
-
